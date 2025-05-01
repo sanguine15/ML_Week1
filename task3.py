@@ -1,4 +1,4 @@
-# Simple Grading System
+#task03: Simple Grading System
 
 marks = int(input("Enter your marks (0-100): "))
 
