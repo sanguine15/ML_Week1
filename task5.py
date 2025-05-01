@@ -1,4 +1,4 @@
-# Simple Number Guessing Game
+#task05: Simple Number Guessing Game
 
 import random
 
