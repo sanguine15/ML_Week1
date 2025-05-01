@@ -1,4 +1,4 @@
-# Simple Average Temperature Calculator
+#task04: Simple Average Temperature Calculator
 
 temperatures = []
 
