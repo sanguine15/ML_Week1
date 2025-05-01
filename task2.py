@@ -1,4 +1,4 @@
-# Simple Grocery Bill Calculator
+# task02:Simple Grocery Bill Calculator
 
 price = float(input("Enter item price: ₹"))
 quantity = int(input("Enter item quantity: "))
